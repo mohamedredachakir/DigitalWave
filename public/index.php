@@ -31,6 +31,6 @@ switch ($page){
         $title = 'Page introuvable';
 }
 
-include '../DigitalWave/views/layout.php'
+include('../views/layout.php');
 
 ?>

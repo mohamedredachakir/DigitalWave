@@ -2,7 +2,7 @@
 
 
 <?php 
-include '../DigitalWave/templates/header.php'
+include '../templates/header.php'
 ?>
 
 <main>
@@ -10,5 +10,5 @@ include '../DigitalWave/templates/header.php'
 </main>
 
 <?php 
-include '../DigitalWave/templates/footer.php'
+include '../templates/footer.php'
 ?>
