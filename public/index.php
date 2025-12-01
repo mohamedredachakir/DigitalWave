@@ -17,7 +17,7 @@ switch ($page){
         break;
 
     case 'services':
-        $view = '../views/services.php';
+        $view = '../views/sevices.php';
         $title = 'Services';
         break;
 

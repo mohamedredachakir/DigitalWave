@@ -1,8 +1,6 @@
 
 
-<?php 
-require '../DigitalWave/data/services.php'
-?>
+<?php require '../data/dataservices.php'; ?>
 
 <div class="grid md:grid-cols-3 gap-8">
 
